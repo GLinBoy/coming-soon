@@ -58,7 +58,7 @@ var counter = {
 
         // "counter-one", "counter-two","counter-three","counter-four"
 
-		style : 'counter-four',
+		style : 'counter-one',
 
     launchDate : {
 
